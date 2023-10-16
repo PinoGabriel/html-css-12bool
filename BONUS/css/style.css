@@ -1,0 +1,49 @@
+body {
+    background-color: #222222;
+}
+
+.box {
+    background-color: red;
+    min-height: 100px;
+    margin: 0.25rem;
+}
+
+.box img {
+    width: 100%;
+    display: block;
+}
+
+.spoty-logo {
+    padding: 2.5rem;
+}
+
+.box-menu {
+    background-color: blue;
+    min-height: 100px;
+    margin: 0.25rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-green {
+    background-color: green;
+    min-height: 100px;
+    margin: 0.25rem;
+    color: white;
+}
+
+.text-down {
+    display: flex;
+    align-items: end;
+}
+
+.text-middle {
+    display: flex;
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
