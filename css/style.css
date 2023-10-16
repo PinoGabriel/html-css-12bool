@@ -1,5 +1,14 @@
 .box {
     background-color: #006CFA;
+    padding: 1rem;
+    margin: 0.25rem;
+    text-align: center;
+    color: white;
+    min-height: 50px;
+}
+
+.box-green {
+    background-color: #00E165;
     padding: 1.25rem;
     margin: 0.25rem;
     text-align: center;
